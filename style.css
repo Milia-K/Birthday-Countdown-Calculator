@@ -10,13 +10,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(215, 187, 243);
+    background-color: rgb(233, 229, 238);
     width: 100vw;
     height: 100vh;
 }
 
 .list{
-    background-color: rgb(234, 220, 248);
+    background-color: white;
     width: 80%;
     height: 80vh;
     padding: 3%;
@@ -43,7 +43,7 @@
 
 .btn{
     padding: 4px 8px ;
-    background: rgb(215, 187, 243);
+    background: rgb(233, 229, 238);
     border-radius: 5px;
     display: flex;
     justify-content: center;
@@ -54,7 +54,7 @@
 
 #btn{
     padding: 4px 8px ;
-    background: rgb(215, 187, 243);
+    background:  rgb(233, 229, 238);
     border-radius: 5px;
     align-items: end;
     position: relative;
